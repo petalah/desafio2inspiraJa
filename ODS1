@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio2inspiraJa</title>
+</head>
+<section id="Mudança Climática"></section>
+<div id="imagem_topo"></div>
+<img src="imagens/Imagem topo.jpg" alt="Txai Surui em Glasgow"/>
+<h1>Objetivo de Desenvolvimento Sustentável 13</h1>
+</h2>Ação contra a mudança global do clima</h2>
+<body>
+<div>
+<h3>Adotar medidas urgentes para combater as alterações climáticas e os seus impactos</h3>
+<p></p> 
+<ul>
+<li>13.1 Reforçar a resiliência e a capacidade de adaptação a riscos relacionados ao clima e às catástrofes naturais em todos os países</li>
+<li>13.2 Integrar medidas da mudança do clima nas políticas, estratégias e planejamentos nacionais</li>        
+<li>13.3 Melhorar a educação, aumentar a conscientização e a capacidade humana e institucional sobre mitigação, adaptação, redução de impacto e alerta precoce da mudança do clima</li>
+<li>13.a Implementar o compromisso assumido pelos países desenvolvidos partes da Convenção Quadro das Nações Unidas sobre Mudança do Clima [UNFCCC] para a meta de mobilizar conjuntamente US$ 100 bilhões por ano a partir de 2020, de todas as fontes, para atender às necessidades dos países em desenvolvimento, no contexto das ações de mitigação significativas e transparência na implementação; e operacionalizar plenamente o Fundo Verde para o Clima por meio de sua capitalização o mais cedo possível</li>
+<li>13.b Promover mecanismos para a criação de capacidades para o planejamento relacionado à mudança do clima e à gestão eficaz, nos países menos desenvolvidos, inclusive com foco em mulheres, jovens, comunidades locais e marginalizadas</li>
+</div>
+   <section id="Olhar indígena">
+    <h4>O olhar indígena como solução para a crise climática</h4>   
+    <p></p>
+    <body>
+    <p>Povos indígenas, quilombolas, extrativistas e outras comunidades tradicionais são os maiores conservadores da floresta, dos rios e da biodiversidade. Seus territórios são alguns dos lugares mais bem conservados no mundo.
+    Os modos tradicionais de vida são fatores determinantes na conservação do meio ambiente e no combate às mudanças climáticas.</p>
+    <p>“Os povos indígenas são ponto central nas discussões sobre as mudanças climáticas e aquecimento global. Nós preservamos 83% de toda a biodiversidade do planeta e desde a década de 1970 estamos denunciando alterações ambientais em nossos territórios”, declarou Dinamam Tuxá, coordenador executivo da Articulação dos Povos Indígenas do Brasil (Apib), que organiza o ATL desde 2004 em Brasília.
+        “Estamos cobrando responsabilidade do governo brasileiro e dos países que investem ou aplicam seus recursos aqui, porque essas ações estão impactando os povos indígenas e comprometendo não só a nossa proteção, mas sim toda biodiversidade do planeta”, explica Tuxá.
+         Após decretarem a emergência climática, os indígenas marcharam pelas ruas de Brasília até o Congresso Nacional, onde realizaram ato contra o Marco Temporal e apresentaram 18 ações prioritárias para apoiar a luta dos  povos em seus territórios na preservação do meio ambiente.
+         Dados da Apib apontam que no Brasil, 29% das áreas ao redor das terras indígenas estão desmatadas, enquanto dentro das mesmas o desmatamento é de apenas 2%, reforçando a função de preservação que esses territórios assumiram no contexto de avanço do consumo dos recursos naturais.
+         Em entrevista à InfoAmazonia, Dinamam Tuxá explicou o que os povos indígenas esperam com o decreto de emergência climática.</p>
+    </body>
+   </section id="video">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/1gnUH7HNBAU?si=DGXkZzSQ3CnHeoZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+ <p></p>
+<div> 
+</section id="Lideranças">
+<h5>Conheça lideranças indígenas</h5>
+ https://site-antigo.socioambiental.org/pt-br/noticias-socioambientais/txai-surui-juventude-indigena-contra-a-emergencia-climatica
+
+</body>
+</div>
+</html>
